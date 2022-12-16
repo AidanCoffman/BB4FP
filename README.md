@@ -34,7 +34,7 @@ We made a choropleth map that shows the spending data for Public Elementary - Se
 ![This is a screenshot showing the format of our .geojson file.](img/geojson.png)
 
 ## Main Functions
-- xx
+Our site uses a slider function to filter the data by year, the user could select the year they would like to view and the website will dynamically change to show the filtered data. In order for the data to load the slider function runs every time the slider value is changed. The legend allows users to see the category of income each state invested in education for the filtered year. The user could see which year they are currently viewing on the main panel.
 
 ## Data Sources
 - The [US Census Bureau’s website](https://www.census.gov/data/tables/2002/econ/school-finances/secondary-education-finance.html) provided us our data available on slide 8 of the “State-Level Tables” .xls file.
